@@ -1,3 +1,3 @@
-# Hi
+# 👋 Hi!
 
-![Minesweeper Animation](https://raw.githubusercontent.com/antarkk/antarkk/output/minesweeper.svg)
+![Snake animation](https://raw.githubusercontent.com/antarkk/antarkk/output/github-contribution-grid-snake-dark.svg)
